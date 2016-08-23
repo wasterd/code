@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A3406761D6C6BA7002E450D"
-               BuildableName = "NSThread.app"
-               BlueprintName = "NSThread"
-               ReferencedContainer = "container:NSThread.xcodeproj">
+               BlueprintIdentifier = "2A3406B51D6C7509002E450D"
+               BuildableName = "NSOperationQueue.app"
+               BlueprintName = "NSOperationQueue"
+               ReferencedContainer = "container:NSOperationQueue.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A34068F1D6C6BA8002E450D"
-               BuildableName = "NSThreadTests.xctest"
-               BlueprintName = "NSThreadTests"
-               ReferencedContainer = "container:NSThread.xcodeproj">
+               BlueprintIdentifier = "2A3406CE1D6C7509002E450D"
+               BuildableName = "NSOperationQueueTests.xctest"
+               BlueprintName = "NSOperationQueueTests"
+               ReferencedContainer = "container:NSOperationQueue.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A34069A1D6C6BA8002E450D"
-               BuildableName = "NSThreadUITests.xctest"
-               BlueprintName = "NSThreadUITests"
-               ReferencedContainer = "container:NSThread.xcodeproj">
+               BlueprintIdentifier = "2A3406D91D6C7509002E450D"
+               BuildableName = "NSOperationQueueUITests.xctest"
+               BlueprintName = "NSOperationQueueUITests"
+               ReferencedContainer = "container:NSOperationQueue.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A3406761D6C6BA7002E450D"
-            BuildableName = "NSThread.app"
-            BlueprintName = "NSThread"
-            ReferencedContainer = "container:NSThread.xcodeproj">
+            BlueprintIdentifier = "2A3406B51D6C7509002E450D"
+            BuildableName = "NSOperationQueue.app"
+            BlueprintName = "NSOperationQueue"
+            ReferencedContainer = "container:NSOperationQueue.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A3406761D6C6BA7002E450D"
-            BuildableName = "NSThread.app"
-            BlueprintName = "NSThread"
-            ReferencedContainer = "container:NSThread.xcodeproj">
+            BlueprintIdentifier = "2A3406B51D6C7509002E450D"
+            BuildableName = "NSOperationQueue.app"
+            BlueprintName = "NSOperationQueue"
+            ReferencedContainer = "container:NSOperationQueue.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A3406761D6C6BA7002E450D"
-            BuildableName = "NSThread.app"
-            BlueprintName = "NSThread"
-            ReferencedContainer = "container:NSThread.xcodeproj">
+            BlueprintIdentifier = "2A3406B51D6C7509002E450D"
+            BuildableName = "NSOperationQueue.app"
+            BlueprintName = "NSOperationQueue"
+            ReferencedContainer = "container:NSOperationQueue.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
